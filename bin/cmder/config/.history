@@ -1,0 +1,7 @@
+commposer
+composer
+cd tarigan
+php artisan migrate:refresh
+php artisan migrate
+composer install
+php artisan migrate:refresh

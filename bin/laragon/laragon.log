@@ -1,0 +1,6 @@
+2019-08-20 21:20:04: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: mysqladmin: connect to server at 'localhost' failed
+error: 'Can't connect to MySQL server on 'localhost' (10061)'
+Check that mysqld is running on localhost and that the port is 3306.
+You can check this by doing 'telnet localhost 3306'
+
